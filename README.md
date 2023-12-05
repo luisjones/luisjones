@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+https://github-widgetbox.vercel.app/api/skills?languages=golang,javascript,typescript,python,svelte,html,css&includeNames=true
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=golang,javascript,typescript,python,svelte,html,css&includeNames=true)](https://github-widgetbox.vercel.app/api/skills?languages=golang,javascript,typescript,python,svelte,html,css&includeNames=true)
 [![Top Languages](https://readme-stats-private-luis-jones-projects.vercel.app/api/top-langs/?username=luisjones&langs_count=8)](https://readme-stats-private-luis-jones-projects.vercel.app/api/top-langs/?username=luisjones&langs_count=8)
+[![GitHub Streak](https://streak-stats.demolab.com?user=luisjones)](https://git.io/streak-stats)
 
 <!--
 **luisjones/luisjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
