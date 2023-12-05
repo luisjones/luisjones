@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Languages](https://readme-stats-private-luis-jones-projects.vercel.app/api/top-langs/?username=luisjones&langs_count=8)](https://readme-stats-private-luis-jones-projects.vercel.app/api/top-langs/?username=luisjones&langs_count=8)
+
 <!--
 **luisjones/luisjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
